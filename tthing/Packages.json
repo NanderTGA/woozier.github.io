@@ -14,7 +14,7 @@
             "32x32": "$REPO_PATH$/dist/gid/icon32.png",
             "16x16": "$REPO_PATH$/dist/gid/icon16.png"
         },
-        "packageRoot": "$REPO_PATH$/dist/gid/sample-package"
+        "packageRoot": "$REPO_PATH$/dist/gid/"
     },
         {
         "name": "Woozefox",
